@@ -1,9 +1,10 @@
 Package: r.integration.package
-Title: What the Package Does (one line, title case)
-Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-Depends: R (>= 3.5.1)
-License: What license is it under?
+Title: Integration Learning
+Version: 0.1
+Authors@R: c(person("Kaushik", "Chaudhuri", role = c("aut", "cre"), email = "kaushik.chaudhuri@gmail.com"))
+Author: Kaushik Chaudhuri
+Maintainer: Kaushik Chaudhuri <kaushik.chaudhuri@gmail.com>
+Description: My first package, created for learning R function calls from other systems.
+License: >GPL-2
 Encoding: UTF-8
 LazyData: true
